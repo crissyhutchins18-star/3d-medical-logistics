@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" rx="32" fill="#F4F6F8"/>
+<g opacity=".75" stroke-linecap="round">
+<path d="M-40 380C150 330 285 350 430 315C580 278 720 220 930 270" stroke="#C9DDEA" stroke-width="18"/>
+<path d="M500 -40C490 120 500 230 520 350C545 470 525 555 505 710" stroke="#C9DDEA" stroke-width="15"/>
+<path d="M170 -30C245 120 300 220 400 320C510 430 600 510 665 710" stroke="#C9DDEA" stroke-width="15"/>
+<path d="M850 -30C800 130 760 225 690 320C620 420 515 490 420 710" stroke="#C9DDEA" stroke-width="15"/>
+</g>
+<path d="M500 -35C488 128 500 238 520 350C545 470 525 555 505 710" stroke="#2E74B5" stroke-width="13" stroke-linecap="round"/>
+<path d="M500 -35C488 128 500 238 520 350C545 470 525 555 505 710" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<path d="M-40 380C150 330 285 350 430 315C580 278 720 220 930 270" stroke="#2E74B5" stroke-width="13" stroke-linecap="round"/>
+<path d="M-40 380C150 330 285 350 430 315C580 278 720 220 930 270" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<g font-family="Arial" font-size="20" font-weight="900">
+<rect x="455" y="270" width="105" height="42" rx="21" fill="#2E74B5"/><text x="483" y="298" fill="#fff">Atlanta</text>
+<rect x="410" y="360" width="110" height="42" rx="21" fill="#0B3C6F"/><text x="433" y="388" fill="#fff">Decatur</text>
+<rect x="430" y="445" width="130" height="42" rx="21" fill="#0B3C6F"/><text x="452" y="473" fill="#fff">Ellenwood</text>
+<rect x="580" y="510" width="145" height="42" rx="21" fill="#0B3C6F"/><text x="602" y="538" fill="#fff">Stockbridge</text>
+<rect x="310" y="505" width="140" height="42" rx="21" fill="#0B3C6F"/><text x="332" y="533" fill="#fff">Jonesboro</text>
+<rect x="650" y="365" width="120" height="42" rx="21" fill="#0B3C6F"/><text x="674" y="393" fill="#fff">Conyers</text>
+</g>
+</svg>

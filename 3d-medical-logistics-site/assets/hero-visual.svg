@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="850" viewBox="0 0 1100 850">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#EEF6FC"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#0B3C6F" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1100" height="850" rx="40" fill="url(#bg)"/>
+<g opacity=".22">
+<rect x="690" y="90" width="160" height="500" rx="24" fill="#BBD4E7"/>
+<rect x="875" y="140" width="170" height="450" rx="24" fill="#CADDEA"/>
+<rect x="725" y="145" width="38" height="38" fill="#fff"/><rect x="785" y="145" width="38" height="38" fill="#fff"/>
+<rect x="725" y="215" width="38" height="38" fill="#fff"/><rect x="785" y="215" width="38" height="38" fill="#fff"/>
+<rect x="912" y="190" width="42" height="42" fill="#fff"/><rect x="970" y="190" width="42" height="42" fill="#fff"/>
+</g>
+<g transform="translate(360 120)" filter="url(#shadow)">
+<circle cx="210" cy="88" r="66" fill="#C8A181"/>
+<path d="M151 80c32 19 78 19 118 0V42c-40-28-84-28-118 0z" fill="#0B3C6F"/>
+<rect x="138" y="150" width="150" height="230" rx="42" fill="#0B3C6F"/>
+<rect x="162" y="194" width="102" height="56" rx="12" fill="#F4F6F8"/>
+<path d="M145 220 72 335" stroke="#C8A181" stroke-width="42" stroke-linecap="round"/>
+<path d="M284 220 365 335" stroke="#C8A181" stroke-width="42" stroke-linecap="round"/>
+<rect x="154" y="365" width="56" height="145" rx="28" fill="#2E74B5"/>
+<rect x="238" y="365" width="56" height="145" rx="28" fill="#2E74B5"/>
+</g>
+<g transform="translate(190 520)" filter="url(#shadow)">
+<rect width="310" height="154" rx="30" fill="white"/>
+<rect x="34" y="42" width="62" height="62" rx="14" fill="#2E74B5"/>
+<path d="M65 54v38M46 73h38" stroke="white" stroke-width="10" stroke-linecap="round"/>
+<rect x="122" y="48" width="112" height="14" rx="7" fill="#0B3C6F" opacity=".7"/>
+<rect x="122" y="80" width="86" height="14" rx="7" fill="#0B3C6F" opacity=".38"/>
+<text x="35" y="130" font-family="Arial" font-size="17" font-weight="900" fill="#0B3C6F">SECURE MEDICAL DELIVERY</text>
+</g>
+<g transform="translate(535 500)" filter="url(#shadow)">
+<rect width="360" height="175" rx="30" fill="white"/>
+<rect x="36" y="48" width="68" height="68" rx="15" fill="#2E74B5"/>
+<path d="M70 60v42M49 81h42" stroke="white" stroke-width="11" stroke-linecap="round"/>
+<rect x="136" y="55" width="138" height="14" rx="7" fill="#0B3C6F" opacity=".7"/>
+<rect x="136" y="88" width="104" height="14" rx="7" fill="#0B3C6F" opacity=".38"/>
+<text x="38" y="144" font-family="Arial" font-size="17" font-weight="900" fill="#0B3C6F">HEALTHCARE LOGISTICS</text>
+</g>
+</svg>
