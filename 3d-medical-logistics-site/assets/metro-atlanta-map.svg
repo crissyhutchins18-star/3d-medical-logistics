@@ -1,0 +1,61 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#0B3C6F" flood-opacity=".18"/>
+  </filter>
+  <linearGradient id="water" x1="0" x2="1" y1="0" y2="1">
+    <stop stop-color="#F8FBFD"/>
+    <stop offset="1" stop-color="#EEF4F8"/>
+  </linearGradient>
+</defs>
+<rect width="1400" height="900" rx="40" fill="url(#water)"/>
+<g opacity=".55">
+  <path d="M-40 720C160 610 340 640 520 570C705 500 790 410 980 405C1120 402 1240 455 1440 360" stroke="#D9E4EE" stroke-width="20" stroke-linecap="round"/>
+  <path d="M-50 260C155 320 310 310 475 270C668 225 810 170 1010 210C1184 245 1285 310 1450 275" stroke="#D9E4EE" stroke-width="16" stroke-linecap="round"/>
+  <path d="M175 -40C250 165 315 265 420 374C548 507 665 560 755 716C805 804 835 840 905 940" stroke="#D9E4EE" stroke-width="16" stroke-linecap="round"/>
+  <path d="M1170 -35C1118 140 1070 220 990 312C900 415 805 455 712 562C650 634 610 732 575 940" stroke="#D9E4EE" stroke-width="16" stroke-linecap="round"/>
+</g>
+
+<!-- I-285 perimeter -->
+<ellipse cx="705" cy="438" rx="330" ry="230" stroke="#0B3C6F" stroke-width="22" opacity=".24"/>
+<ellipse cx="705" cy="438" rx="330" ry="230" stroke="#FFFFFF" stroke-width="7" opacity=".7"/>
+
+<!-- Main interstates -->
+<path d="M702 -40C690 140 675 276 700 438C723 592 720 710 704 940" stroke="#2E74B5" stroke-width="18" stroke-linecap="round"/>
+<path d="M702 -40C690 140 675 276 700 438C723 592 720 710 704 940" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity=".9"/>
+<path d="M-40 455C178 410 360 418 545 430C730 442 895 450 1065 430C1190 415 1285 392 1440 370" stroke="#2E74B5" stroke-width="18" stroke-linecap="round"/>
+<path d="M-40 455C178 410 360 418 545 430C730 442 895 450 1065 430C1190 415 1285 392 1440 370" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity=".9"/>
+<path d="M295 -35C395 126 480 250 590 360C745 516 875 620 1040 935" stroke="#2E74B5" stroke-width="14" stroke-linecap="round" opacity=".9"/>
+<path d="M295 -35C395 126 480 250 590 360C745 516 875 620 1040 935" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+<path d="M1080 -30C970 150 900 270 810 365C705 476 602 587 455 932" stroke="#2E74B5" stroke-width="14" stroke-linecap="round" opacity=".85"/>
+<path d="M1080 -30C970 150 900 270 810 365C705 476 602 587 455 932" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+
+<!-- Coverage area -->
+<circle cx="705" cy="438" r="270" fill="#2E74B5" opacity=".09"/>
+<circle cx="705" cy="438" r="190" fill="#2E74B5" opacity=".12"/>
+<circle cx="705" cy="438" r="90" fill="#2E74B5" opacity=".18"/>
+
+<!-- City labels -->
+<g font-family="Inter, Arial, sans-serif" font-weight="800" font-size="28">
+  <g filter="url(#shadow)"><rect x="640" y="385" width="130" height="54" rx="27" fill="#2E74B5"/><text x="676" y="421" fill="#fff">Atlanta</text></g>
+  <g filter="url(#shadow)"><rect x="598" y="472" width="132" height="52" rx="26" fill="#0B3C6F"/><text x="626" y="507" fill="#fff">Decatur</text></g>
+  <g filter="url(#shadow)"><rect x="598" y="596" width="156" height="52" rx="26" fill="#0B3C6F"/><text x="624" y="631" fill="#fff">Ellenwood</text></g>
+  <g filter="url(#shadow)"><rect x="745" y="682" width="176" height="52" rx="26" fill="#0B3C6F"/><text x="771" y="717" fill="#fff">Stockbridge</text></g>
+  <g filter="url(#shadow)"><rect x="480" y="684" width="164" height="52" rx="26" fill="#0B3C6F"/><text x="507" y="719" fill="#fff">Jonesboro</text></g>
+  <g filter="url(#shadow)"><rect x="875" y="508" width="136" height="52" rx="26" fill="#0B3C6F"/><text x="903" y="543" fill="#fff">Conyers</text></g>
+  <g filter="url(#shadow)"><rect x="430" y="600" width="130" height="52" rx="26" fill="#0B3C6F"/><text x="456" y="635" fill="#fff">Morrow</text></g>
+  <g filter="url(#shadow)"><rect x="380" y="745" width="186" height="52" rx="26" fill="#0B3C6F"/><text x="406" y="780" fill="#fff">Riverdale</text></g>
+  <g filter="url(#shadow)"><rect x="800" y="780" width="178" height="52" rx="26" fill="#0B3C6F"/><text x="828" y="815" fill="#fff">McDonough</text></g>
+</g>
+
+<g font-family="Inter, Arial, sans-serif" font-weight="900" font-size="22" fill="#0B3C6F" opacity=".55">
+  <rect x="70" y="54" width="105" height="38" rx="19" fill="#fff" stroke="#D5E0EA"/>
+  <text x="94" y="80">I-285</text>
+  <rect x="865" y="82" width="92" height="38" rx="19" fill="#fff" stroke="#D5E0EA"/>
+  <text x="894" y="108">I-85</text>
+  <rect x="1080" y="355" width="92" height="38" rx="19" fill="#fff" stroke="#D5E0EA"/>
+  <text x="1109" y="381">I-20</text>
+  <rect x="595" y="108" width="92" height="38" rx="19" fill="#fff" stroke="#D5E0EA"/>
+  <text x="624" y="134">I-75</text>
+</g>
+</svg>
