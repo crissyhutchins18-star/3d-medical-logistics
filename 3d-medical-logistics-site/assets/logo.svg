@@ -1,0 +1,19 @@
+<svg width="720" height="220" viewBox="0 0 720 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="silver" x1="44" y1="24" x2="194" y2="194" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".45" stop-color="#D9E1EA"/><stop offset="1" stop-color="#8B98A8"/></linearGradient>
+  <linearGradient id="navy" x1="0" y1="0" x2="210" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#153764"/><stop offset="1" stop-color="#061B35"/></linearGradient>
+  <filter id="softShadow" x="-15%" y="-15%" width="130%" height="130%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#061B35" flood-opacity=".22"/></filter>
+</defs>
+<g filter="url(#softShadow)">
+  <path d="M110 14C70 24 42 48 29 86c-13 38-3 79 26 105 27 25 70 30 104 11 34-18 54-55 50-93-3-39-28-72-64-88-11-5-24-8-35-7Z" fill="url(#navy)"/>
+  <path d="M110 28c44 0 80 36 80 80s-36 80-80 80-80-36-80-80 36-80 80-80Z" stroke="url(#silver)" stroke-width="9"/>
+  <path d="M73 66h34c22 0 39 16 39 41 0 26-18 43-42 43H73v-28h29c8 0 14-6 14-15 0-8-6-14-14-14H73V66Z" fill="white"/>
+  <path d="M117 69h20v19h19v20h-19v19h-20v-19H98V88h19V69Z" fill="#BFD8FF"/>
+  <path d="M51 165c24-17 44-38 58-65 13 27 32 49 58 65" stroke="#D9E1EA" stroke-width="7" stroke-linecap="round"/>
+  <path d="M110 103v63" stroke="white" stroke-width="5" stroke-linecap="round" stroke-dasharray="11 12"/>
+</g>
+<text x="250" y="94" fill="#071D39" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">3D Medical</text>
+<text x="250" y="146" fill="#536170" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="3">LOGISTICS</text>
+<path d="M251 161h387" stroke="#C7A45B" stroke-width="5" stroke-linecap="round"/>
+<text x="251" y="190" fill="#071D39" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="2.8">DELIVERING CARE • DRIVING RELIABILITY</text>
+</svg>

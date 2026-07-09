@@ -1,0 +1,15 @@
+<svg width="1920" height="1120" viewBox="0 0 1920 1120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1600" y2="1000"><stop stop-color="#113965"/><stop offset=".45" stop-color="#0B2748"/><stop offset="1" stop-color="#06182F"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1450 330) rotate(130) scale(560 380)" gradientUnits="userSpaceOnUse"><stop stop-color="#C7A45B" stop-opacity=".34"/><stop offset="1" stop-color="#C7A45B" stop-opacity="0"/></radialGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="30" stdDeviation="22" flood-color="#031326" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1920" height="1120" fill="url(#sky)"/><rect width="1920" height="1120" fill="url(#glow)"/>
+<path d="M0 856C271 752 474 724 759 764c371 52 581-16 1161-184v540H0V856Z" fill="#0A203B"/>
+<path d="M0 920C306 800 629 829 918 871c300 44 620-18 1002-180v429H0V920Z" fill="#07182E"/>
+<g opacity=".28"><path d="M196 558h62v218h-62zM276 486h96v290h-96zM392 526h56v250h-56zM1470 446h112v330h-112zM1605 520h78v256h-78zM1703 474h95v302h-95z" fill="#BFD8FF"/><path d="M492 404h140v372H492zM657 468h88v308h-88zM775 430h120v346H775z" fill="#8294AA"/><path d="M1060 505h95v271h-95zM1180 435h136v341h-136zM1338 489h77v287h-77z" fill="#6F829B"/></g>
+<g filter="url(#shadow)" transform="translate(955 655)"><path d="M47 42c0-24 19-43 43-43h415c55 0 102 39 113 93l22 105H42c-23 0-42-19-42-42V89c0-26 21-47 47-47Z" fill="#F7FAFF"/><path d="M65 72h275c16 0 29 13 29 29v57H65V72Z" fill="#D9E3EF"/><path d="M402 77h110c29 0 55 18 66 45l16 38H402V77Z" fill="#173C66"/><path d="M96 91h74v48H96zM198 91h74v48h-74z" fill="#173C66" opacity=".82"/><path d="M72 184h545v34H72z" fill="#0C2B4F"/><circle cx="148" cy="218" r="48" fill="#071D39"/><circle cx="148" cy="218" r="22" fill="#E7EDF5"/><circle cx="512" cy="218" r="48" fill="#071D39"/><circle cx="512" cy="218" r="22" fill="#E7EDF5"/><path d="M284 104h26v-26h28v26h26v28h-26v26h-28v-26h-26v-28z" fill="#C7A45B"/><text x="88" y="178" font-family="Arial" font-weight="800" font-size="34" fill="#071D39">3D MEDICAL LOGISTICS</text></g>
+<g transform="translate(215 646)" filter="url(#shadow)"><rect width="484" height="296" rx="22" fill="#F7FAFF"/><rect x="35" y="45" width="414" height="190" rx="18" fill="#DDE7F3"/><rect x="62" y="72" width="98" height="88" rx="8" fill="#173C66"/><rect x="190" y="72" width="98" height="88" rx="8" fill="#173C66" opacity=".88"/><rect x="318" y="72" width="98" height="88" rx="8" fill="#173C66" opacity=".76"/><path d="M204 188h76v-28h28v28h76v28h-76v28h-28v-28h-76v-28z" fill="#C7A45B"/><rect y="252" width="484" height="44" fill="#071D39"/></g>
+<path d="M740 970c172-81 424-109 700-62" stroke="#C7A45B" stroke-opacity=".54" stroke-width="6" stroke-linecap="round"/>
+<rect width="1920" height="1120" fill="#06182F" opacity=".18"/>
+</svg>
