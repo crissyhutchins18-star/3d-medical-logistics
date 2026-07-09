@@ -1,24 +1,13 @@
 <svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#0B3C6F" flood-opacity=".18"/></filter>
-<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#F4F6F8"/></linearGradient>
-</defs>
+<defs><filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#0B3C6F" flood-opacity=".18"/></filter><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F4F6F8"/></linearGradient></defs>
 <rect width="1600" height="1000" rx="44" fill="url(#bg)"/>
-<g opacity=".55" stroke-linecap="round">
-<path d="M-80 735C150 620 350 640 560 570C760 505 870 410 1080 410C1240 410 1380 470 1680 350" stroke="#DDE6EF" stroke-width="22"/>
-<path d="M-60 280C160 340 330 330 520 284C735 232 900 170 1125 215C1320 254 1430 318 1680 280" stroke="#DDE6EF" stroke-width="16"/>
-<path d="M220 -60C306 170 385 290 505 410C650 556 780 635 875 810C925 900 960 955 1010 1070" stroke="#DDE6EF" stroke-width="16"/>
-<path d="M1320 -55C1252 145 1195 245 1100 360C1000 482 880 522 775 640C690 735 650 825 622 1065" stroke="#DDE6EF" stroke-width="16"/>
-</g>
-<ellipse cx="805" cy="475" rx="380" ry="265" stroke="#0B3C6F" stroke-width="24" opacity=".24"/>
-<ellipse cx="805" cy="475" rx="380" ry="265" stroke="#fff" stroke-width="7" opacity=".75"/>
-<path d="M800 -50C785 155 770 308 805 475C835 625 825 775 805 1050" stroke="#2E74B5" stroke-width="19" stroke-linecap="round"/>
-<path d="M-80 500C180 450 390 454 610 470C805 485 1015 490 1210 462C1370 440 1480 420 1680 390" stroke="#2E74B5" stroke-width="19" stroke-linecap="round"/>
+<g opacity=".55" stroke-linecap="round"><path d="M-80 735C150 620 350 640 560 570C760 505 870 410 1080 410C1240 410 1380 470 1680 350" stroke="#DDE6EF" stroke-width="22"/><path d="M-60 280C160 340 330 330 520 284C735 232 900 170 1125 215C1320 254 1430 318 1680 280" stroke="#DDE6EF" stroke-width="16"/><path d="M220 -60C306 170 385 290 505 410C650 556 780 635 875 810C925 900 960 955 1010 1070" stroke="#DDE6EF" stroke-width="16"/><path d="M1320 -55C1252 145 1195 245 1100 360C1000 482 880 522 775 640C690 735 650 825 622 1065" stroke="#DDE6EF" stroke-width="16"/></g>
+<ellipse cx="805" cy="475" rx="380" ry="265" stroke="#0B3C6F" stroke-width="24" opacity=".24"/><ellipse cx="805" cy="475" rx="380" ry="265" stroke="#FFFFFF" stroke-width="7" opacity=".75"/>
+<path d="M800 -50C785 155 770 308 805 475C835 625 825 775 805 1050" stroke="#2E74B5" stroke-width="19" stroke-linecap="round"/><path d="M800 -50C785 155 770 308 805 475C835 625 825 775 805 1050" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity=".9"/>
+<path d="M-80 500C180 450 390 454 610 470C805 485 1015 490 1210 462C1370 440 1480 420 1680 390" stroke="#2E74B5" stroke-width="19" stroke-linecap="round"/><path d="M-80 500C180 450 390 454 610 470C805 485 1015 490 1210 462C1370 440 1480 420 1680 390" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity=".9"/>
 <path d="M330 -50C450 140 550 286 675 410C850 585 1000 700 1190 1060" stroke="#2E74B5" stroke-width="15" stroke-linecap="round" opacity=".85"/>
 <path d="M1240 -40C1115 165 1038 300 930 410C805 540 690 662 520 1060" stroke="#2E74B5" stroke-width="15" stroke-linecap="round" opacity=".85"/>
-<circle cx="805" cy="475" r="310" fill="#2E74B5" opacity=".08"/>
-<circle cx="805" cy="475" r="225" fill="#2E74B5" opacity=".11"/>
-<circle cx="805" cy="475" r="110" fill="#2E74B5" opacity=".15"/>
+<circle cx="805" cy="475" r="310" fill="#2E74B5" opacity=".08"/><circle cx="805" cy="475" r="225" fill="#2E74B5" opacity=".11"/><circle cx="805" cy="475" r="110" fill="#2E74B5" opacity=".15"/>
 <g font-family="Arial, sans-serif" font-weight="800" font-size="28">
 <g filter="url(#shadow)"><rect x="730" y="420" width="140" height="56" rx="28" fill="#2E74B5"/><text x="768" y="457" fill="#fff">Atlanta</text></g>
 <g filter="url(#shadow)"><rect x="684" y="524" width="145" height="54" rx="27" fill="#0B3C6F"/><text x="713" y="560" fill="#fff">Decatur</text></g>
@@ -29,5 +18,4 @@
 <g filter="url(#shadow)"><rect x="485" y="665" width="140" height="54" rx="27" fill="#0B3C6F"/><text x="515" y="701" fill="#fff">Morrow</text></g>
 <g filter="url(#shadow)"><rect x="430" y="830" width="198" height="54" rx="27" fill="#0B3C6F"/><text x="462" y="866" fill="#fff">Riverdale</text></g>
 <g filter="url(#shadow)"><rect x="910" y="860" width="200" height="54" rx="27" fill="#0B3C6F"/><text x="942" y="896" fill="#fff">McDonough</text></g>
-</g>
-</svg>
+</g></svg>

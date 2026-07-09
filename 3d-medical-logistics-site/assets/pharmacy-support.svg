@@ -1,0 +1,20 @@
+<svg width="1200" height="850" viewBox="0 0 1200 850" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="b" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#F8FBFE"/><stop offset="1" stop-color="#DDEAF5"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#0B3C6F" flood-opacity=".18"/></filter></defs>
+<rect width="1200" height="850" rx="44" fill="url(#b)"/>
+<rect x="115" y="120" width="970" height="500" rx="44" fill="#fff" filter="url(#s)"/>
+<g transform="translate(175 185)">
+<rect x="0" y="0" width="850" height="72" rx="18" fill="#0B3C6F" opacity=".12"/>
+<rect x="0" y="140" width="850" height="72" rx="18" fill="#0B3C6F" opacity=".12"/>
+<rect x="0" y="280" width="850" height="72" rx="18" fill="#0B3C6F" opacity=".12"/>
+<g fill="#fff" stroke="#DDE6EF" stroke-width="3">
+<rect x="45" y="30" width="110" height="90" rx="20"/><rect x="190" y="30" width="110" height="90" rx="20"/><rect x="335" y="30" width="110" height="90" rx="20"/><rect x="480" y="30" width="110" height="90" rx="20"/><rect x="625" y="30" width="110" height="90" rx="20"/>
+<rect x="80" y="170" width="110" height="90" rx="20"/><rect x="225" y="170" width="110" height="90" rx="20"/><rect x="370" y="170" width="110" height="90" rx="20"/><rect x="515" y="170" width="110" height="90" rx="20"/><rect x="660" y="170" width="110" height="90" rx="20"/>
+</g>
+<g stroke="#2E74B5" stroke-width="9" stroke-linecap="round">
+<path d="M100 68H100V88M88 78H112"/><path d="M245 68V88M233 78H257"/><path d="M390 68V88M378 78H402"/><path d="M535 68V88M523 78H547"/><path d="M680 68V88M668 78H692"/>
+<path d="M135 208V228M123 218H147"/><path d="M280 208V228M268 218H292"/><path d="M425 208V228M413 218H437"/><path d="M570 208V228M558 218H582"/><path d="M715 208V228M703 218H727"/>
+</g>
+</g>
+<text x="126" y="710" fill="#0B3C6F" font-family="Arial" font-weight="900" font-size="42">Pharmacy & Vendor Support</text>
+<text x="126" y="755" fill="#68737F" font-family="Arial" font-size="25">Organized delivery support for pharmacy-related and healthcare vendor needs.</text>
+</svg>

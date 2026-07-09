@@ -1,0 +1,27 @@
+<svg width="1200" height="850" viewBox="0 0 1200 850" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="b" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#F8FBFE"/><stop offset="1" stop-color="#DDEAF5"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#0B3C6F" flood-opacity=".18"/></filter></defs>
+<rect width="1200" height="850" rx="44" fill="url(#b)"/>
+<rect x="125" y="115" width="950" height="500" rx="44" fill="#fff" filter="url(#s)"/>
+<g transform="translate(220 185)">
+<rect x="0" y="280" width="760" height="40" rx="20" fill="#0B3C6F" opacity=".12"/>
+<g transform="translate(80 40)">
+<rect x="0" y="0" width="70" height="235" rx="22" fill="#D7E8F6"/>
+<rect x="8" y="95" width="54" height="120" rx="18" fill="#2E74B5" opacity=".7"/>
+<rect x="15" y="-25" width="40" height="44" rx="10" fill="#0B3C6F"/>
+</g>
+<g transform="translate(230 0)">
+<rect x="0" y="0" width="80" height="275" rx="24" fill="#D7E8F6"/>
+<rect x="9" y="110" width="62" height="145" rx="20" fill="#2E74B5" opacity=".65"/>
+<rect x="18" y="-28" width="44" height="48" rx="11" fill="#0B3C6F"/>
+</g>
+<g transform="translate(405 65)">
+<rect x="0" y="0" width="72" height="210" rx="22" fill="#D7E8F6"/>
+<rect x="8" y="88" width="56" height="102" rx="18" fill="#2E74B5" opacity=".58"/>
+<rect x="16" y="-24" width="40" height="43" rx="10" fill="#0B3C6F"/>
+</g>
+<rect x="555" y="80" width="170" height="190" rx="26" fill="#F4F6F8" stroke="#DDE6EF"/>
+<path d="M640 128V194M607 161H673" stroke="#2E74B5" stroke-width="16" stroke-linecap="round"/>
+</g>
+<text x="126" y="710" fill="#0B3C6F" font-family="Arial" font-weight="900" font-size="42">Laboratory Logistics</text>
+<text x="126" y="755" fill="#68737F" font-family="Arial" font-size="25">Time-sensitive support for lab, specimen, and healthcare supply movement.</text>
+</svg>
