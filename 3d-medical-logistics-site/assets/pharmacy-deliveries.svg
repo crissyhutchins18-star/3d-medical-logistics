@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#EEF6FC"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#0B3C6F" flood-opacity=".15"/></filter></defs>
+<rect width="1200" height="800" rx="36" fill="url(#b)"/>
+<rect x="95" y="90" width="1010" height="500" rx="42" fill="white" filter="url(#s)"/>
+<g transform="translate(170 155)">
+<rect x="0" y="0" width="860" height="70" rx="20" fill="#0B3C6F" opacity=".1"/><rect x="0" y="130" width="860" height="70" rx="20" fill="#0B3C6F" opacity=".1"/><rect x="0" y="260" width="860" height="70" rx="20" fill="#0B3C6F" opacity=".1"/>
+<g fill="#fff" stroke="#DDE6EF" stroke-width="2"><rect x="65" y="26" width="115" height="86" rx="18"/><rect x="230" y="26" width="115" height="86" rx="18"/><rect x="395" y="26" width="115" height="86" rx="18"/><rect x="560" y="26" width="115" height="86" rx="18"/><rect x="135" y="158" width="115" height="86" rx="18"/><rect x="300" y="158" width="115" height="86" rx="18"/><rect x="465" y="158" width="115" height="86" rx="18"/><rect x="630" y="158" width="115" height="86" rx="18"/></g>
+<g stroke="#2E74B5" stroke-width="9" stroke-linecap="round"><path d="M122 50v36M104 68h36"/><path d="M287 50v36M269 68h36"/><path d="M452 50v36M434 68h36"/><path d="M617 50v36M599 68h36"/><path d="M192 182v36M174 200h36"/><path d="M357 182v36M339 200h36"/><path d="M522 182v36M504 200h36"/><path d="M687 182v36M669 200h36"/></g>
+</g>
+<text x="90" y="680" font-family="Arial" font-size="42" font-weight="900" fill="#0B3C6F">Pharmacy Deliveries</text>
+<text x="90" y="725" font-family="Arial" font-size="24" fill="#667383">Safe, timely support for prescription, pharmacy, and supplier-related movement.</text></svg>

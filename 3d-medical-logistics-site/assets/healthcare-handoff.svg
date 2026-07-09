@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#EEF6FC"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#0B3C6F" flood-opacity=".16"/></filter></defs>
+<rect width="1200" height="800" rx="36" fill="url(#b)"/>
+<rect x="80" y="70" width="1040" height="560" rx="42" fill="white" filter="url(#s)"/>
+<g transform="translate(130 145)"><rect x="0" y="0" width="360" height="390" rx="30" fill="#F4F6F8"/><circle cx="180" cy="82" r="62" fill="#C7A17F"/><rect x="115" y="150" width="130" height="170" rx="35" fill="#0B3C6F"/><rect x="50" y="230" width="150" height="62" rx="23" fill="white" transform="rotate(-14 50 230)"/><rect x="190" y="230" width="150" height="62" rx="23" fill="white" transform="rotate(14 190 230)"/></g>
+<g transform="translate(540 225)" filter="url(#s)"><rect x="0" y="0" width="430" height="210" rx="38" fill="white"/><rect x="46" y="58" width="88" height="88" rx="18" fill="#2E74B5"/><path d="M90 75V128M64 102H116" stroke="white" stroke-width="14" stroke-linecap="round"/><rect x="170" y="72" width="170" height="16" rx="8" fill="#0B3C6F" opacity=".7"/><rect x="170" y="108" width="122" height="16" rx="8" fill="#0B3C6F" opacity=".42"/></g>
+<text x="90" y="710" font-family="Arial" font-size="42" font-weight="900" fill="#0B3C6F">Healthcare Courier Handoff</text>
+<text x="90" y="755" font-family="Arial" font-size="24" fill="#667383">Professional delivery support from pickup to confirmation.</text></svg>
