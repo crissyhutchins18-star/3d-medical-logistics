@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+<defs><filter id="s"><feDropShadow dx="0" dy="24" stdDeviation="18" flood-color="#0B3C6F" flood-opacity=".2"/></filter></defs>
+<rect width="900" height="480" rx="34" fill="#0B3C6F"/>
+<circle cx="130" cy="385" r="58" fill="#2E74B5" opacity=".28"/>
+<g transform="translate(120 140)" filter="url(#s)">
+<rect x="70" y="60" width="300" height="180" rx="34" fill="white"/>
+<path d="M145 65c0-62 150-62 150 0" fill="none" stroke="#0B3C6F" stroke-width="22" stroke-linecap="round"/>
+<rect x="0" y="100" width="430" height="215" rx="36" fill="#F4F6F8"/>
+<rect x="178" y="168" width="72" height="72" rx="16" fill="#2E74B5"/>
+<path d="M214 182v44M192 204h44" stroke="white" stroke-width="12" stroke-linecap="round"/>
+</g>
+<text x="510" y="155" font-family="Georgia" font-size="42" font-weight="700" fill="white">Let’s Deliver Better, Together</text>
+<text x="510" y="210" font-family="Arial" font-size="22" fill="#DCEAF6">Partner with a healthcare logistics team that cares as much as you do.</text>
+</svg>

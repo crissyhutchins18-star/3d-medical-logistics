@@ -1,24 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="850" viewBox="0 0 1600 850">
-<defs><filter id="shadow"><feDropShadow dx="0" dy="15" stdDeviation="13" flood-color="#0B3C6F" flood-opacity=".2"/></filter></defs>
-<rect width="1600" height="850" fill="#EAF2F8"/>
-<g opacity=".62" stroke-linecap="round">
-<path d="M-80 635C150 520 350 540 560 470C760 405 870 310 1080 310C1240 310 1380 370 1680 250" stroke="#C9DDEA" stroke-width="22"/>
-<path d="M-60 220C160 280 330 270 520 224C735 172 900 110 1125 155C1320 194 1430 258 1680 220" stroke="#C9DDEA" stroke-width="16"/>
-<path d="M220 -60C306 170 385 290 505 410C650 556 780 635 875 810C925 900 960 955 1010 1070" stroke="#C9DDEA" stroke-width="16"/>
-<path d="M1320 -55C1252 145 1195 245 1100 360C1000 482 880 522 775 640C690 735 650 825 622 1065" stroke="#C9DDEA" stroke-width="16"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="1200" height="720" rx="32" fill="#F4F6F8"/>
+<g opacity=".75" stroke-linecap="round">
+<path d="M-40 400C150 340 280 360 440 318C600 275 720 210 885 240C1015 263 1085 310 1260 280" stroke="#CCDCE9" stroke-width="20"/>
+<path d="M250 -50C330 130 400 230 500 320C620 430 715 505 795 760" stroke="#CCDCE9" stroke-width="15"/>
+<path d="M950 -40C890 125 845 215 770 300C690 390 585 460 480 760" stroke="#CCDCE9" stroke-width="15"/>
 </g>
-<path d="M800 -50C785 155 770 308 805 475C835 625 825 775 805 1050" stroke="#2E74B5" stroke-width="18" stroke-linecap="round"/>
-<path d="M800 -50C785 155 770 308 805 475C835 625 825 775 805 1050" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
-<path d="M-80 500C180 450 390 454 610 470C805 485 1015 490 1210 462C1370 440 1480 420 1680 390" stroke="#2E74B5" stroke-width="18" stroke-linecap="round"/>
-<path d="M-80 500C180 450 390 454 610 470C805 485 1015 490 1210 462C1370 440 1480 420 1680 390" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
-<path d="M740 390L1080 310L1320 450L1240 685L780 710L560 570Z" fill="#2E74B5" opacity=".2" stroke="#2E74B5" stroke-width="4"/>
-<g font-family="Arial" font-weight="800" font-size="28">
-<g filter="url(#shadow)"><rect x="730" y="380" width="140" height="56" rx="28" fill="#2E74B5"/><text x="768" y="417" fill="#fff">Atlanta</text></g>
-<g filter="url(#shadow)"><rect x="680" y="490" width="145" height="54" rx="27" fill="#0B3C6F"/><text x="709" y="526" fill="#fff">Decatur</text></g>
-<g filter="url(#shadow)"><rect x="710" y="600" width="170" height="54" rx="27" fill="#0B3C6F"/><text x="738" y="636" fill="#fff">Ellenwood</text></g>
-<g filter="url(#shadow)"><rect x="845" y="710" width="190" height="54" rx="27" fill="#0B3C6F"/><text x="875" y="746" fill="#fff">Stockbridge</text></g>
-<g filter="url(#shadow)"><rect x="540" y="695" width="178" height="54" rx="27" fill="#0B3C6F"/><text x="570" y="731" fill="#fff">Jonesboro</text></g>
-<g filter="url(#shadow)"><rect x="990" y="520" width="150" height="54" rx="27" fill="#0B3C6F"/><text x="1020" y="556" fill="#fff">Conyers</text></g>
-<g filter="url(#shadow)"><rect x="915" y="780" width="200" height="54" rx="27" fill="#0B3C6F"/><text x="947" y="816" fill="#fff">McDonough</text></g>
+<path d="M600 -30C585 145 584 250 610 352C642 480 620 575 600 760" stroke="#2E74B5" stroke-width="16" stroke-linecap="round"/>
+<path d="M600 -30C585 145 584 250 610 352C642 480 620 575 600 760" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<path d="M-40 395C175 350 335 355 500 370C640 383 795 385 930 365C1045 350 1120 335 1260 320" stroke="#2E74B5" stroke-width="16" stroke-linecap="round"/>
+<path d="M-40 395C175 350 335 355 500 370C640 383 795 385 930 365C1045 350 1120 335 1260 320" stroke="white" stroke-width="5" stroke-linecap="round"/>
+<g font-family="Arial" font-size="23" font-weight="900">
+<rect x="545" y="300" width="116" height="48" rx="24" fill="#2E74B5"/><text x="580" y="332" fill="white">Atlanta</text>
+<rect x="500" y="390" width="122" height="46" rx="23" fill="#0B3C6F"/><text x="527" y="421" fill="white">Decatur</text>
+<rect x="520" y="485" width="145" height="46" rx="23" fill="#0B3C6F"/><text x="546" y="516" fill="white">Ellenwood</text>
+<rect x="690" y="555" width="164" height="46" rx="23" fill="#0B3C6F"/><text x="715" y="586" fill="white">Stockbridge</text>
+<rect x="390" y="555" width="150" height="46" rx="23" fill="#0B3C6F"/><text x="415" y="586" fill="white">Jonesboro</text>
+<rect x="770" y="410" width="130" height="46" rx="23" fill="#0B3C6F"/><text x="797" y="441" fill="white">Conyers</text>
+<rect x="735" y="620" width="170" height="46" rx="23" fill="#0B3C6F"/><text x="765" y="651" fill="white">McDonough</text>
 </g>
 </svg>
