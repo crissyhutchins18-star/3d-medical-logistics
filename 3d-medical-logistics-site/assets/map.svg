@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
 <rect width="1000" height="650" rx="32" fill="#F4F6F8"/>
-<g opacity=".75" stroke-linecap="round">
+<g opacity=".8" stroke-linecap="round">
 <path d="M-40 380C150 330 285 350 430 315C580 278 720 220 930 270" stroke="#C9DDEA" stroke-width="18"/>
 <path d="M500 -40C490 120 500 230 520 350C545 470 525 555 505 710" stroke="#C9DDEA" stroke-width="15"/>
 <path d="M170 -30C245 120 300 220 400 320C510 430 600 510 665 710" stroke="#C9DDEA" stroke-width="15"/>
